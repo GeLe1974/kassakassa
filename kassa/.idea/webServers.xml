@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="089aa437-ce8e-4650-83ac-251d93c5c0f7" name="kassa" url="http://ftp.oadige-ibis.be">
+        <fileTransfer host="ftp.oadige-ibis.be" port="21" password="dffddf92dfdddf9adf9adfd8dfcedf9b" username="kassa@kassa.oadige-ibis.be">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
